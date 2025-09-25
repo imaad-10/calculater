@@ -1,2 +1,2 @@
 # calculater
-A 
+A basic command-line calculater that performs fundamental arithmetic operations
